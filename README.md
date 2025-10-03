@@ -8,4 +8,4 @@ Print hello world from Terminal
 Write a program that stores the string Hello World! in a variable and then displays the contents of the variable on the screen.
 
 **Exercise_3:**
-Escribir un programa que pregunte el nombre del usuario en la consola y después de que el usuario lo introduzca muestre por pantalla la cadena ¡Hola <nombre>!, donde <nombre> es el nombre que el usuario haya introducido.
+Write a program that asks for the user's name on the console and after the user enters it, displays the string Hello <name>! on the screen, where <name> is the name that the user has entered.
