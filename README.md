@@ -1,6 +1,7 @@
 # Learning-Java
 Learning Java with daily exercises
 
+
 **Exercise_1:**
 Print hello world from Terminal
 
