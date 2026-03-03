@@ -1,6 +1,6 @@
 hh# Learning-Java
 Learning Java with daily exercises
-
+jg
 
 **Exercise_1:**
 Print hello world from Terminal
